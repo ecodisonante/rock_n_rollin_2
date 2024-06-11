@@ -1,0 +1,27 @@
+.category {
+    color: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    height: 120px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.box {
+    opacity: 0.6;
+    transition: all 1s;
+}
+
+/* -- HOVER -- */
+.box:hover {
+    opacity: 1;
+    transform: scale(1.01);
+}
+
+.category:hover {
+    color: black;
+}
