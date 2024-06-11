@@ -1,0 +1,25 @@
+<div id="home">
+    <div class="container mt-5">
+        <p>
+            En esta tienda tenemos una gran pasion por la música y los juegos de mesa, por eso decidimos clasificar
+            los juegos usando estilos musicales del rock que reflejen el espíritu del juego.
+        </p>
+
+        <div class="my-5">
+
+            <h2>Categorías</h2>
+
+            <div class="row text-center">
+                <div class="col-lg-3 col-md-6 my-3" *ngFor="let cat of catList">
+                    <a href="category/{{ cat.id }}">
+                        <div class="box category" [style.backgroundImage]="'url(' + cat.img + ')'">
+                            <h3>{{ cat.name }}</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,87 @@
+<div class="content container my-5">
+
+    <h2>Registrarse</h2>
+
+    <form id="registro-form" action="index.html">
+        <div class="container row">
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="text" class="form-control" id="nombres" placeholder="Ingrese Nombre(s)"
+                        name="nombres" required>
+                    <label for="nombres">Nombre(s)</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="text" class="form-control form-row" id="apePat" placeholder="Apellido Paterno"
+                        name="apePat" required>
+                    <label for="apePat">Apellido Paterno</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="text" class="form-control" id="apeMat" placeholder="Apellido Materno" name="apeMat"
+                        required>
+                    <label for="apeMat">Apellido Materno</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="date" class="form-control" id="fechanac" placeholder="Fecha Nacimiento"
+                        name="fechanac" required>
+                    <label for="fechanac">Fecha Nacimiento</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="text" class="form-control" id="direccion" placeholder="Dirección" name="direccion">
+                    <label for="direccion">Dirección Despacho</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="text" class="form-control" id="usuario" placeholder="Usuario" name="usuario"
+                        required>
+                    <label for="usuario">Usuario</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="email" class="form-control" id="correo" placeholder="Correo" name="correo"
+                        required>
+                    <label for="correo">Correo</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="password" class="form-control" id="passwd" placeholder="Contraseña" name="passwd"
+                        required>
+                    <label for="passwd">Contraseña</label>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="form-floating my-3">
+                    <input type="password" class="form-control" id="re-passwd" placeholder="Confirmar Contraseña"
+                        name="re-passwd" required>
+                    <label for="re-passwd">Confirmar Contraseña</label>
+                </div>
+            </div>
+
+            <div class="container">
+                <button class="btn btn-primary px-5 py-3 float-end" onclick="enviaForm()">Enviar</button>
+                <button class="btn btn-danger px-5 py-3 mx-3 float-end" onclick="limpiaForm()">Borrar</button>
+            </div>
+        </div>
+        
+    </form>
+
+</div>

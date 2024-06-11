@@ -1,0 +1,21 @@
+<div id="category" class="d-inline">
+    <div class="container mt-5">
+        <h2 id="cat-title">Juegos {{ category?.name }}</h2>
+        <div id="cat-desc">{{ category?.descripcion }}</div>
+        <div id="cat-games" class="row text-center my-5">
+            <div class="col-lg-3 col-md-6 my-3" *ngFor="let game of catGames">
+                <a href="game/{{ game.id }}">
+                    <div class="card box">
+                        <div class="card-body">
+                            <img src="{{ game.img }}" width="100%">
+                        </div>
+                        <div class="card-footer">
+                            <h4>{{ game.name }}</h4>
+                            <p>{{ game.price }}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
