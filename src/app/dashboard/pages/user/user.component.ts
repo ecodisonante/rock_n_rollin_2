@@ -10,8 +10,9 @@ import { minAgeValidator, passwordMatchValidator, passwordStregthValidator } fro
   templateUrl: './user.component.html',
   styleUrl: './user.component.css'
 })
-export default class UserComponent implements OnInit{
+export default class UserComponent implements OnInit {
   userForm!: FormGroup;
+  successRegister: boolean = false;
 
   constructor(private fb: FormBuilder) { }
 
@@ -32,10 +33,10 @@ export default class UserComponent implements OnInit{
   }
 
   submitForm() {
-    if (this.userForm.valid)
-      console.log("Hello!");
+    if (this.userForm.valid) {
+      this.successRegister = true;
+      console.log("Success Register!!");
+    }
   }
-
-
 
 }

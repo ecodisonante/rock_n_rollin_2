@@ -22,19 +22,32 @@ export function passwordStregthValidator() {
 
     return (control: AbstractControl): ValidationErrors | null => {
         const pass: string = control.value;
-        
+
         if (pass.length > 18 || pass.length < 6) return { passwordStrength: "Contraseña debe tener entre 6 y 18 caracteres" };
-        if (!passValidator.test(pass)) return { passwordStrength: "Contraseña debe tener mayúsculas, minúsculas y números" };
+        else if (!passValidator.test(pass)) return { passwordStrength: "Contraseña debe tener mayúsculas, minúsculas y números" };
         return null;
     };
 }
 
-export function passwordMatchValidator(passName : string, rePassName : string) {
+export function passwordMatchValidator(passName: string, rePassName: string) {
     return (control: AbstractControl): ValidationErrors | null => {
-        const pass: string = control.get(passName)!.value;
-        const rePass: string = control.get(rePassName)!.value;
+        const passControl = control.get(passName);
+        const rePassControl = control.get(rePassName);
 
-        if (pass !== rePass) return { passwordMatch: false };
+        if (!passControl || !rePassControl) { return null; }
+
+        const pass = passControl.value;
+        const rePass = rePassControl.value;
+
+        if (rePassControl.errors && !rePassControl.errors['passwordMatch']) { return null; }
+
+        if (pass !== rePass) {
+            rePassControl.setErrors({ passwordMatch: "Contraseñas no coinciden" });
+            return { passwordMatch: "Contraseñas no coinciden" };
+        } else {
+            rePassControl.setErrors(null);
+        }
+
         return null;
-    };
+    }
 }
