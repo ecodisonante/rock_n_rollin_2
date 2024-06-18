@@ -72,8 +72,10 @@
                 <div class="form-floating my-3">
                     <input type="email" class="form-control" id="correo" placeholder="Correo" formControlName="correo">
                     <label for="correo">Correo</label>
-                    <div *ngIf="userForm.get('email')?.touched && userForm.get('email')?.hasError('required')">
+                    <div *ngIf="userForm.get('correo')?.touched && userForm.get('correo')?.hasError('required')">
                         Este campo es obligatorio</div>
+                    <div *ngIf="userForm.get('correo')?.touched && userForm.get('correo')?.hasError('email')">
+                        Correo inválido</div>
                 </div>
             </div>
 
@@ -104,7 +106,7 @@
             </div>
 
             <div class="container">
-                <button class="btn btn-primary px-5 py-3 float-end" type="submit">Enviar</button>
+                <button class="btn btn-primary px-5 py-3 float-end" type="submit" id="userBtn">Enviar</button>
                 <button class="btn btn-danger px-5 py-3 mx-3 float-end" onclick="limpiaForm()">Borrar</button>
             </div>
         </div>

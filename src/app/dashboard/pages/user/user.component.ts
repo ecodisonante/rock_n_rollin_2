@@ -22,7 +22,7 @@ export default class UserComponent implements OnInit {
       apePat: ['', Validators.required],
       apeMat: ['', Validators.required],
       fechanac: ['', [Validators.required, minAgeValidator(13)]],
-      direccion: ['', Validators.required],
+      direccion: ['', [Validators.required, Validators.email]],
       usuario: ['', Validators.required],
       correo: ['', Validators.required],
       passwd: ['', [Validators.required, passwordStregthValidator()]],
@@ -38,5 +38,6 @@ export default class UserComponent implements OnInit {
       console.log("Success Register!!");
     }
   }
+
 
 }

@@ -23,6 +23,8 @@ export function passwordStregthValidator() {
     return (control: AbstractControl): ValidationErrors | null => {
         const pass: string = control.value;
 
+        if (control.errors && !control.errors['required']) { return null; }
+
         if (pass.length > 18 || pass.length < 6) return { passwordStrength: "Contraseña debe tener entre 6 y 18 caracteres" };
         else if (!passValidator.test(pass)) return { passwordStrength: "Contraseña debe tener mayúsculas, minúsculas y números" };
         return null;
