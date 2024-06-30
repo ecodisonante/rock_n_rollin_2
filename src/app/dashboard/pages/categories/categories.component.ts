@@ -25,12 +25,12 @@ export default class CategoriesComponent {
   }
 
 
-  // addCat(){
-  //   let nueva = new Category(9, "Test", "/images/catbg.jpg", "blablabla");
+  addCat() {
+    let nueva = new Category(9, "Test", "/images/catbg.jpg", "blablabla");
 
-  //   this.catList.push(nueva);
+    this.catList.push(nueva);
 
-  //   this.categoryService.addCategory(this.catList);
-  // }
+    this.categoryService.setCategoryList(this.catList);
+  }
 
 }
