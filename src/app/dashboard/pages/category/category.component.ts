@@ -25,7 +25,7 @@ export default class CategoryComponent implements OnInit {
       if (id && !isNaN(Number(id))) this.category = CATEGORIES.find(c => c.id === Number(id));
       else this.router.navigate(['/']);
 
-      this.catGames = GAMES.filter(g => g.category.id === this.category?.id);
+      this.catGames = GAMES.filter(g => g.categoryId === this.category?.id);
     });
   }
 
