@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 1,
+        "price": 25990
+    },
+    {
+        "id": 2,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 1,
+        "price": 31990
+    },
+    {
+        "id": 3,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 1,
+        "price": 25990
+    },
+    {
+        "id": 4,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 1,
+        "price": 31990
+    },
+    {
+        "id": 5,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 2,
+        "price": 25990
+    },
+    {
+        "id": 6,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 2,
+        "price": 31990
+    },
+    {
+        "id": 7,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 2,
+        "price": 25990
+    },
+    {
+        "id": 8,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 2,
+        "price": 31990
+    },
+    {
+        "id": 9,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 3,
+        "price": 25990
+    },
+    {
+        "id": 10,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 3,
+        "price": 31990
+    },
+    {
+        "id": 11,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 3,
+        "price": 25990
+    },
+    {
+        "id": 12,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 3,
+        "price": 31990
+    },
+    {
+        "id": 13,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 4,
+        "price": 25990
+    },
+    {
+        "id": 14,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 4,
+        "price": 31990
+    },
+    {
+        "id": 15,
+        "name": "Dixit",
+        "img": "/images/games/dixit.png",
+        "description": "¡Dixit es un creativo juego de deducción, bellamente ilustrado, donde tu imaginación crea increíbles historias! \n \n Más de 1,5 millones de copias vendidas en todo el mundo. \n \n 84 cartas con bellas ilustraciones para que los adultos se luzcan con su agudeza y los pequeños sorprendan con su imaginación. \n \n El tablero maca la puntuación con las fichas con forma de conejo. Una ficha por jugador de distinto color. Cada turno un cuentacuentos diferente elegirá una de sus cartas y dirá una frase que la identifique. El resto de los jugadores seleccionará de las suyas la que más se asemeje a la frase del turno. Se descubren todas las cartas y se trata de adivinar cuál es la del cuentacuentos. \n \n Sobre el tablero un conejo de diferente color por cada jugador. Preparados, listos…empiezas tú si la creatividad te viene innata y además estás inspirado porque seguro que ya tienes en mente la frase para alguna de tus cartas, o para todas, pero es una carta por turno. Serás el primer cuentacuentos de la partida. ¿En qué has pensado: un libro, una película, una canción o acudiste a tu imaginación? La dices en voz alta y todos se concentran para elegir entre sus cartas cuál coincide más con la frase. No lo pongas complicado porque nadie acertará, y será un turno en el que tu conejo no va a puntuar y lo mismo te va a ocurrir si es tan fácil que todos saben qué carta elegiste. \n \n Con las cartas de tus adversarios sobre la mesa, ahora viene lo mejor: tienen que adivinar cuál es tu carta. Parecen tranquilos, no se inquietan y, sin embargo, no es ilusión la viñeta pensativa que ves sobre sus cabezas: ¡podría ser cualquiera! ¡descarto la 2! ¡seguro es la 5! ¡Puf, ninguna carta describe la frase! ¿la 3 ó la 5? Tiene pinta de que dos de tus contrincantes la pueden averiguar… Si dos jugadores de cinco han adivinado tu carta, no está mal para empezar. \n",
+        "categoryId": 4,
+        "price": 25990
+    },
+    {
+        "id": 16,
+        "name": "Azul",
+        "img": "/images/games/azul.png",
+        "description": "Azul invita a los artistas del azulejo a embellecer las paredes del Palacio Real de Évora. \n \n Cuando Manuel I el Afortunado, rey de Portugal, visitó el Palacio de la Alhambra, quedó cautivado por la imponente belleza de la decoración, formada por losetas de cerámica de procedencia árabe a las que llamaban “azulejos”. Aún fascinado por el esplendor del interior de la Alhambra, a su regreso a Portugal ordenó inmediatamente que las paredes de su palacio en Évora fueran decoradas del mismo modo. \n \n ¡Elige con cuidado tu estrategia para convertirte en el artista preferido del rey! \n",
+        "categoryId": 4,
+        "price": 31990
+    }
+]

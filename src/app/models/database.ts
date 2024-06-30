@@ -18,25 +18,25 @@ export const CATEGORIES = [
 
 
 export const GAMES = [
-    new Game(1, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[0], 25990),
-    new Game(2, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[0], 31990),
-    new Game(3, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[0], 25990),
-    new Game(4, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[0], 31990),
+    new Game(1, "Dixit", "/images/games/dixit.png", dixitDesc, 1, 25990),
+    new Game(2, "Azul", "/images/games/azul.png", azulDesc, 1, 31990),
+    new Game(3, "Dixit", "/images/games/dixit.png", dixitDesc, 1, 25990),
+    new Game(4, "Azul", "/images/games/azul.png", azulDesc, 1, 31990),
 
-    new Game(5, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[1], 25990),
-    new Game(6, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[1], 31990),
-    new Game(7, "Dixit", "/images/games/dixit.png", azulDesc, CATEGORIES[1], 25990),
-    new Game(8, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[1], 31990),
+    new Game(5, "Dixit", "/images/games/dixit.png", dixitDesc, 2, 25990),
+    new Game(6, "Azul", "/images/games/azul.png", azulDesc, 2, 31990),
+    new Game(7, "Dixit", "/images/games/dixit.png", azulDesc, 2, 25990),
+    new Game(8, "Azul", "/images/games/azul.png", azulDesc, 2, 31990),
 
-    new Game(9, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[2], 25990),
-    new Game(10, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[2], 31990),
-    new Game(11, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[2], 25990),
-    new Game(12, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[2], 31990),
+    new Game(9, "Dixit", "/images/games/dixit.png", dixitDesc, 3, 25990),
+    new Game(10, "Azul", "/images/games/azul.png", azulDesc, 3, 31990),
+    new Game(11, "Dixit", "/images/games/dixit.png", dixitDesc, 3, 25990),
+    new Game(12, "Azul", "/images/games/azul.png", azulDesc, 3, 31990),
 
-    new Game(13, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[3], 25990),
-    new Game(14, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[3], 31990),
-    new Game(15, "Dixit", "/images/games/dixit.png", dixitDesc, CATEGORIES[3], 25990),
-    new Game(16, "Azul", "/images/games/azul.png", azulDesc, CATEGORIES[3], 31990),
+    new Game(13, "Dixit", "/images/games/dixit.png", dixitDesc, 4, 25990),
+    new Game(14, "Azul", "/images/games/azul.png", azulDesc, 4, 31990),
+    new Game(15, "Dixit", "/images/games/dixit.png", dixitDesc, 4, 25990),
+    new Game(16, "Azul", "/images/games/azul.png", azulDesc, 4, 31990),
 ];
 
 
